@@ -37,3 +37,4 @@ permissions:
             description: "Allows you to set your PureChat suffix"			
       pchat.coloredMessages:
         description: "Allows you to use colors in chat"		
+
